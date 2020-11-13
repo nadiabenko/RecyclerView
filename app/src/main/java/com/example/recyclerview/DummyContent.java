@@ -6,7 +6,7 @@ import java.util.List;
 public class DummyContent {
     /** Списочный массив элементов */
     public static final List<DummyItem> ITEMS = new ArrayList<DummyItem>();
-    private static final int COUNT = 25;
+    private static final int COUNT = 10;
 
     static {
         // Добавление элементов в список.
